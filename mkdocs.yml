@@ -1,0 +1,22 @@
+site_name: Piscina de Entropia 
+site_url: https://piscinadeentropia.es
+site_description: ¿Has probado a apagarlo y volverlo a encender?
+copyright: Copyright &copy; 2019-2023 Isaac Hernan
+
+theme:
+    name: material
+    language: "es"
+    logo: ./images/pisicina_de_entropia_logo.png
+    font:
+        text: Ubuntu 
+        code: IBM Plex Mono 
+
+nav:
+    - Inicio: index.md
+    - Acerca de...:
+        - Acerca de mi y Piscina de Entropia: about/about_acercademi.md
+        - Política de Privacidad: about/about_politica-de-privacidad
+        - Contacto: about/about_contacto.md
+    - Otros:
+        - Logos: others/others_logos.md
+        - Primer Aniversario: others/others_primeraniversario.md
