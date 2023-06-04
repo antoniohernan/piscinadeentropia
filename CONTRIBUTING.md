@@ -27,7 +27,7 @@ Not accepted contents:
 
 To contribute to this repository, please follow the steps below:
 
-1. Make sure that the content you want to collaborate with is allowed (see the respective section of this document)[]
+1. Make sure that the content you want to collaborate with is allowed (see the respective section of this [document](https://github.com/Isaaker/piscinadeentropia/edit/main/CONTRIBUTING.md#content-to-collaborate-with)
 2. Create a fork of this repository
 3. Use the COLLABORATIONS branch to make your changes
 4. When your contribution is ready create a pull request from the CONTRIBUTIONS branch of your fork to the CONTRIBUTIONS branch of the source repository (Contributions to main will never be accepted by the branch protection rules), don't forget to assign the change to Isaaker and please add tags.
