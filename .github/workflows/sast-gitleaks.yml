@@ -1,4 +1,4 @@
-name: Sast GitLeaks
+name: SAST GitLeaks
 on:
   workflow_dispatch:
 jobs:
