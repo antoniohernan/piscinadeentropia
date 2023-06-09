@@ -38,7 +38,7 @@ Repositorio oficial de piscinadeentropia.es
 
 |Name|Status|
 |--|--|
-|github-pages|[![pages-build-deployment](https://github.com/Isaaker/piscinadeentropia/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/Isaaker/piscinadeentropia/actions/workflows/pages/pages-build-deployment)|
+|github-pages|![](https://img.shields.io/github/deployments/isaaker/piscinadeentropia/github-pages)|
 # License
 
 ![](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
