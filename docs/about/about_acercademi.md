@@ -27,4 +27,3 @@ Lo que pretendo con esta pagina web es:
 
 Si quieres hacer alguna sugerencia o quieres contactar conmigo ves a la [sección contactos](https://piscinadeentropia.es/contacto/).
 
-**Isaaker**
