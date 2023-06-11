@@ -72,7 +72,7 @@ nav:
         - "WWDC 21": "apple/apple_wwdc21_intro.md"
     - Raspberry:
         - "Introducción": "raspberry/raspberry_intro.md"
-        - "Pi-Hole": "raspberry/raspberry_pihole_intro.md"
+        - "Pi-Hole": 
                 - "Introducción": "raspberry/raspberry_pihole_intro.md" 
         - "RetroPie":
                 - "Introducción": "raspberry/raspberry_retropie_intro.md"
