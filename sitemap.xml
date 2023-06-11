@@ -46,12 +46,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://piscinadeentropia.es/lenguajes/lenguajes_python_intro/</loc>
+         <loc>https://piscinadeentropia.es/lenguajes/python/lenguajes_python_intro/</loc>
          <lastmod>2023-06-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://piscinadeentropia.es/lenguajes/lenguajes_swift_intro/</loc>
+         <loc>https://piscinadeentropia.es/lenguajes/swift/lenguajes_swift_intro/</loc>
          <lastmod>2023-06-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -72,6 +72,16 @@
     </url>
     <url>
          <loc>https://piscinadeentropia.es/raspberry/raspberry_intro/</loc>
+         <lastmod>2023-06-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://piscinadeentropia.es/raspberry/pi_hole/raspberry_pihole_intro/</loc>
+         <lastmod>2023-06-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://piscinadeentropia.es/raspberry/retropie/raspberry_retropie_intro/</loc>
          <lastmod>2023-06-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
