@@ -67,12 +67,12 @@ plugins:
 nav:
     - Inicio: index.md
     - Apple: 
-        - "Introducción": "apple/apple_intro.md" 
+	- "Introducción": "apple/apple_intro.md" 
         - "Unleashed": "apple/apple_unleashed_intro.md"
-        - "WWDC 21": apple/apple_wwdc21_intro.md
+        - "WWDC 21": "apple/apple_wwdc21_intro.md"
     - Raspberry:
 	- "Introducción": "raspberry/raspberry_intro.md"
-	- "Pi-Hole": "raspberry/raspberry_pihole_intro.md
+	- "Pi-Hole": "raspberry/raspberry_pihole_intro.md"
 		- "Introducción": "raspberry/raspberry_pihole_intro.md" 
 	- "RetroPie":
                 - "Introducción": "raspberry/raspberry_retropie_intro.md"
