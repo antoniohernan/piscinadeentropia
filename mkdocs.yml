@@ -66,6 +66,14 @@ plugins:
 
 nav:
     - Inicio: index.md
+    - Apple: apple/apple_intro.md
+        - Unleashed: apple/unleashed/apple_unleashed_intro.md
+        - WWDC 21: apple/WWDC21/apple_wwdc21_intro.md
+    - Raspberry: raspberry/raspberry_intro.md
+    - Arduino: arduino/arduino_intro.md
+    - Lenguajes: lenguajes/lenguajes_intro.md 
+        - Swift: lenguajes/swift/lenguajes_swift_intro.md 
+        - Python: lenguajes/python/lenguajes_python_intro.md
     - Acerca de...:
         - Acerca de mi y Piscina de Entropia: about/about_acercademi.md
         - Política de Privacidad: about/about_politica-de-privacidad
@@ -73,3 +81,4 @@ nav:
     - Otros:
         - Logos: others/others_logos.md
         - Primer Aniversario: others/others_primeraniversario.md
+        - Paginas amigas: others/others_paginasamigas.md
