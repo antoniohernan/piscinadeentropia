@@ -5,13 +5,12 @@ date: "2022-01-08"
 
 ## Tercer Logo (Actual)
 
-![](images/pisicina_de_entropia_logo.png)
+![](../images/pisicina_de_entropia_logo.png)
 
+## Segundo Logo
 
-![](images/ezgif-4-133ae24b2de8-300x300.gif)
+![]/../images/PDE_logo_2.png)
 
-Segundo Logo
+## Primer Logo
 
-![](images/Captura-de-pantalla-2022-01-08-a-las-15.30.30-300x287.png)
-
-Primer Logo
+![](../images/PDE_logo_1.png)

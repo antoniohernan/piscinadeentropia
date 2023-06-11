@@ -1,4 +1,4 @@
-# Home 
+# Inicio 
 
 ![](./images/pisicina_de_entropia_logo.png)
 

@@ -15,8 +15,3 @@ Algunos lenguajes son:
 - Swift
 - Y muchos mas…
 
-Sub-Directorios:
-
-https://piscinadeentropia.es/swift/
-
-https://piscinadeentropia.es/python/
