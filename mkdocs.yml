@@ -72,16 +72,16 @@ nav:
         - "WWDC 21": apple/apple_wwdc21_intro.md
     - Raspberry:
 	- "Introducción": "raspberry/raspberry_intro.md"
-	- Pi-Hole: "raspberry/raspberry_pihole_intro.md
+	- "Pi-Hole": "raspberry/raspberry_pihole_intro.md
 		- "Introducción": "raspberry/raspberry_pihole_intro.md" 
-	- RetroPie:
+	- "RetroPie":
                 - "Introducción": "raspberry/raspberry_retropie_intro.md"
     - Arduino: arduino/arduino_intro.md
     - Lenguajes: 
         - "Introducción": "lenguajes/lenguajes_intro.md"
-        - Swift: 
+        - "Swift": 
 		- "Introducción": "lenguajes/swift/lenguajes_swift_intro.md"
-        - Python:
+        - "Python":
 		- "Introducción": "lenguajes/python/lenguajes_python_intro.md"
     - Acerca de...:
         - Acerca de mi y Piscina de Entropia: about/about_acercademi.md
