@@ -9,8 +9,8 @@ date: "2022-01-08"
 
 ## Segundo Logo
 
-![]/../images/PDE_logo_2.png)
+![](../images/old_logos/PDE_logo_2.png)
 
 ## Primer Logo
 
-![](../images/PDE_logo_1.png)
+![](../images/old_logos/PDE_logo_1.png)
