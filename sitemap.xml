@@ -2,32 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://piscinadeentropia.es/</loc>
-         <lastmod>2023-06-10</lastmod>
+         <lastmod>2023-06-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://piscinadeentropia.es/about/about_acercademi/</loc>
-         <lastmod>2023-06-10</lastmod>
+         <lastmod>2023-06-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://piscinadeentropia.es/about/about_contacto/</loc>
-         <lastmod>2023-06-10</lastmod>
+         <lastmod>2023-06-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://piscinadeentropia.es/about/about_politica-de-privacidad/</loc>
-         <lastmod>2023-06-10</lastmod>
+         <lastmod>2023-06-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://piscinadeentropia.es/apple/apple_intro/</loc>
+         <lastmod>2023-06-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://piscinadeentropia.es/apple/apple_unleashed_intro/</loc>
+         <lastmod>2023-06-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://piscinadeentropia.es/apple/apple_wwdc21_intro/</loc>
+         <lastmod>2023-06-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://piscinadeentropia.es/arduino/arduino_intro/</loc>
+         <lastmod>2023-06-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://piscinadeentropia.es/lenguajes/lenguajes_intro/</loc>
+         <lastmod>2023-06-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://piscinadeentropia.es/lenguajes/lenguajes_python_intro/</loc>
+         <lastmod>2023-06-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://piscinadeentropia.es/lenguajes/lenguajes_swift_intro/</loc>
+         <lastmod>2023-06-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://piscinadeentropia.es/others/others_logos/</loc>
-         <lastmod>2023-06-10</lastmod>
+         <lastmod>2023-06-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://piscinadeentropia.es/others/others_paginasamigas/</loc>
+         <lastmod>2023-06-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://piscinadeentropia.es/others/others_primeraniversario/</loc>
-         <lastmod>2023-06-10</lastmod>
+         <lastmod>2023-06-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://piscinadeentropia.es/raspberry/raspberry_intro/</loc>
+         <lastmod>2023-06-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
