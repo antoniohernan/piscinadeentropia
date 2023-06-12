@@ -69,15 +69,15 @@ nav:
     - Apple: 
         - "Introducción": "apple/apple_intro.md" 
         - "Unleashed":
-                - "Introducción": "apple/apple_unleashed_intro.md"
+                - "Introducción": "apple/unleashed/apple_unleashed_intro.md"
         - "WWDC 21":
-                - "Introducción": "apple/apple_wwdc21_intro.md"
+                - "Introducción": "apple/wwdc21/apple_wwdc21_intro.md"
     - Raspberry:
         - "Introducción": "raspberry/raspberry_intro.md"
         - "Pi-Hole": 
-                - "Introducción": "raspberry/raspberry_pihole_intro.md" 
+                - "Introducción": "raspberry/pi_hole/raspberry_pihole_intro.md" 
         - "RetroPie":
-                - "Introducción": "raspberry/raspberry_retropie_intro.md"
+                - "Introducción": "raspberry/RetroPie/raspberry_retropie_intro.md"
     - Arduino: arduino/arduino_intro.md
     - Lenguajes: 
         - "Introducción": "lenguajes/lenguajes_intro.md"

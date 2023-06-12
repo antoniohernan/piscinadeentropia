@@ -2,7 +2,7 @@
 
 ![](./images/pisicina_de_entropia_logo.png)
 
-**AVISO IMPORTANTE: El sitio web se encuentra en proceso de migración, por ello es posible que halla entradas, paginas e imagenes que no aparezcan por que todavia no se han añadido o debido a errores. Por ello pido perdon de antemano por los errores que podais llegar a encontrar en la web** 
+**AVISO IMPORTANTE: El sitio web se encuentra en proceso de migración, por ello es posible que halla entradas, paginas e imagenes que no aparezcan por que todavia no se han añadido o debido a errores. Por ello pido perdon de antemano por los errores que podais llegar a encontrar en la web. También es posible que halla paginas o entradas a las que os resulte imposible acceder despues de la migración ya que puede ser que las halla decidido borrar por la poca import** 
 
 ## Nuestras redes sociales
 
