@@ -1,10 +1,6 @@
 ---
 title: "Aqara en la Apple Store"
 date: "2021-08-25"
-categories: 
-  - "apple"
-  - "domotica"
-coverImage: "230x0w.png"
 ---
 
 Recientemente me he enterado, de que se están empezando a distribuir los productos de Aqara Home (propiedad de Xiaomi), en los Apple Store.(No confundirse con App Store)

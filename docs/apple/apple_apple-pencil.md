@@ -1,10 +1,6 @@
 ---
 title: "Appel Pencil"
 date: "2021-06-26"
-categories: 
-  - "apple"
-  - "resenas-de-productos"
-coverImage: "4F3562BB-713C-498D-AD91-E18BCDE4049F.png"
 ---
 
 Hola, ¿Que tal?. Hoy vengo a hablar de… El Appel Pencil.

@@ -1,9 +1,6 @@
 ---
 title: "Los peligros de cargar tu móvil en un lugar público"
 date: "2021-12-02"
-categories: 
-  - "ciberseguridad"
-coverImage: "Diseno-sin-titulo.png"
 ---
 
 Hola, sé que llevo un tiempo sin escribir sin embargo hoy me ha venido a la cabeza un tema muy interesante: ¿Es realmente seguro cargar mi móvil en un lugar publicó, a que me expongo?.

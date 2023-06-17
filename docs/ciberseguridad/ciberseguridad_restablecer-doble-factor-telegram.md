@@ -1,9 +1,6 @@
 ---
 title: "Restablece Doble Factor de Telegram"
 date: "2021-11-19"
-categories: 
-  - "ciberseguridad"
-coverImage: "2-Factor-e1637351794256.jpg"
 ---
 
 Hola, Buenos Dias:

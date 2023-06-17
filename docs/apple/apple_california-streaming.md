@@ -1,9 +1,6 @@
 ---
 title: "California Streaming"
 date: "2021-09-18"
-categories: 
-  - "apple"
-coverImage: "2EA1CD24-8080-413C-A652-A4F73FAD8A87-e1631117248791.jpeg"
 ---
 
 Hola, ¿Que tal el finde semana?

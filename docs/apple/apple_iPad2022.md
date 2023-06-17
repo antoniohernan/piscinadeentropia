@@ -1,9 +1,6 @@
 ---
 title: "iPad 2022"
 date: "2021-09-20"
-categories: 
-  - "apple"
-coverImage: "Captura-de-pantalla-2021-09-20-a-las-20.49.02-e1632163755751.png"
 ---
 
 Hola, como ya os habréis dado cuenta por él titulo hoy vamos a hablar de los Nuevos iPad.

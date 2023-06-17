@@ -1,9 +1,6 @@
 ---
 title: "Hasta fin de exixtencias, Apple dice adiós al iPod"
 date: "2022-05-15"
-categories: 
-  - "apple"
-coverImage: "Apple-iPod-end-of-life-iPod-first-generation-scaled-e1652610104841.jpg"
 ---
 
  

@@ -1,8 +1,6 @@
 ---
 title: "Apple Watch 7"
 date: "2021-10-24"
-categories: 
-  - "apple"
 ---
 
 Hola, cuánto tiempo… Se me está amontonando el trabajo tengo que acabar todas estas entradas y ponerme con las de Unleashed el ultimo event a si que…

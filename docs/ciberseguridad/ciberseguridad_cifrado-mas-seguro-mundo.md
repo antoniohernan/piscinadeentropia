@@ -1,9 +1,6 @@
 ---
 title: "El cifrado mas seguro del mundo"
 date: "2021-12-29"
-categories: 
-  - "ciberseguridad"
-coverImage: "AES-e1640777682198.png"
 ---
 
 Hola, hoy lectores os traigo un tema de ciberseguridad ¿Cual es el cifrado mas seguro del mundo?

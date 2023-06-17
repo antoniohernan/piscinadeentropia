@@ -1,7 +1,6 @@
 ---
 title: "Arduino"
 date: "2021-08-19"
-coverImage: "harrison-broadbent-fZB51omnY_Y-unsplash-e1630491280255.jpg"
 ---
 
 ![](images/harrison-broadbent-fZB51omnY_Y-unsplash-200x113.jpg)

@@ -66,6 +66,8 @@ plugins:
 
 nav:
     - Inicio: index.md
+    - General: 
+        - "Bienvenidos": "general/general_bienvenidos.md"
     - Apple: 
         - "Introducción": "apple/apple_intro.md" 
         - "Unleashed":

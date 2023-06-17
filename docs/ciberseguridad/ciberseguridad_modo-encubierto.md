@@ -1,9 +1,6 @@
 ---
 title: "Modo encubierto, curioso ajuste de Firewall"
 date: "2022-02-13"
-categories: 
-  - "ciberseguridad"
-coverImage: "Modo-Encubierto-e1644742081503.jpg"
 ---
 
 Bueno, hoy vengo a hablaros de un curioso modo del FireWall de mi Mac que muchos seguramente no conozcais: **Modo Encubierto**

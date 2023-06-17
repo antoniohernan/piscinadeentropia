@@ -1,8 +1,6 @@
 ---
 title: "iOS 14.7"
 date: "2021-07-24"
-categories: 
-  - "apple"
 ---
 
 Hola, ¿que tal?. Como ya os avise por el [canal de telegram](http://t.me/piscinadeentropia) ayer, la actualización de iOS 14.7 ya se encuentra disponible para descargarla.

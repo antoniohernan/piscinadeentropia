@@ -1,9 +1,6 @@
 ---
 title: "Citas de Steve Jobs"
 date: "2021-10-09"
-categories: 
-  - "steve-jobs"
-coverImage: "42FE8666-67C3-4B70-BF43-2210D5BE24BE.jpeg"
 ---
 
  

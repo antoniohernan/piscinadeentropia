@@ -1,9 +1,6 @@
 ---
 title: "FIDO Alliance y Apple, el futuro de las contraseñas"
 date: "2022-10-29"
-categories: 
-  - "ciberseguridad"
-coverImage: "Passkeys-e1667031491670.png"
 ---
 
 Hola, de nuevo lectores. Llevo bastante tiempo sin escribir una entrada y ya era momento de crear una nueva, el tema que traigo hoy a la web trata sobre las nuevas Apple Pass Keys y la Alianza FIDO.

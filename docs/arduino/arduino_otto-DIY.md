@@ -1,9 +1,6 @@
 ---
 title: "Otto DIY"
 date: "2021-08-09"
-categories: 
-  - "arduino"
-coverImage: "7D68BABC-3CBC-47C7-AF0D-14220C5FA785-e1628611506703.png"
 ---
 
 Hola, hoy vengo a presentaros el robot que estoy elaborando conjuntamente con [pruebadeconcepto.es](https://pruebadeconcepto.es) , se llama Otto. Como puedes leer en su [pagina](https://es.ottodiy.com/), esta es su historia:

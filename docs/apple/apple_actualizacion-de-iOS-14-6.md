@@ -1,8 +1,6 @@
 ---
 title: "Actualización de IOS 14.6"
 date: "2021-06-06"
-categories: 
-  - "apple"
 ---
 
 Hola, hoy os vengo a haceros un resumen de lo que incluye la actualización de IOS 14.6
