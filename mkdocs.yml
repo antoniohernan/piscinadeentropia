@@ -16,7 +16,10 @@ theme:
       - navigation.tabs.sticky
       - navigation.sections
       - navigation.top
+      - navigation.footer
     palette:
+      primary: blue
+      accent: cyan 
       - media: "(prefers-color-scheme)"
         toggle:
           icon: material/brightness-auto
@@ -95,3 +98,14 @@ nav:
         - Logos: others/others_logos.md
         - Primer Aniversario: others/others_primeraniversario.md
         - Paginas amigas: others/others_paginasamigas.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/mastodon 
+      link: https://mas.to/@piscina_de_entropia 
+    - icon: fontawesome/brands/github
+      link: http://github.com/Isaaker 
+    - icon: fontawesome/brands/instagram 
+      link: https://www.instagram.com/piscinadeentropia_oficial/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/piscinaentropia
