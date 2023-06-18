@@ -18,8 +18,8 @@ theme:
       - navigation.top
       - navigation.footer
     palette:
-      primary: blue
-      accent: cyan 
+      - primary: blue
+      - accent: cyan 
       - media: "(prefers-color-scheme)"
         toggle:
           icon: material/brightness-auto
