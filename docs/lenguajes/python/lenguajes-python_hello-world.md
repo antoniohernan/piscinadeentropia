@@ -1,8 +1,6 @@
 ---
 title: "Python Hello World"
 date: "2021-06-06"
-categories: 
-  - "python"
 ---
 
 Hola, hoy vamos a hablar sobre [python](https://www.python.org/), imagino que habréis leído la pagina que le hice sino. [Aquí esta el enlace](https://piscinadeentropia.es/python/).

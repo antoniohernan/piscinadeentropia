@@ -1,8 +1,6 @@
 ---
 title: "Nuestro nuevo canal de YouTube"
 date: "2021-06-24"
-categories: 
-  - "general"
 ---
 
 Hola, lectores.

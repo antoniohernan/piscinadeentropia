@@ -1,8 +1,6 @@
 ---
 title: "La diferencia entre un Bit y un Byte"
 date: "2021-05-31"
-categories: 
-  - "general"
 ---
 
 Si ya lo sé, algunos estaréis pensando “¿A que viene esto?”. Pues resulta que es una broma muy común entre mi familia, y quería contaros eso: La diferencia entre un bit y un bite.

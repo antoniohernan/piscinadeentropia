@@ -1,9 +1,6 @@
 ---
 title: "WWDC21 HomeKit"
 date: "2021-06-22"
-categories: 
-  - "apple"
-coverImage: "5894F942-12F3-4064-83F9-2CA2F49CA5AF-e1624377761323.jpeg"
 ---
 
 Bienvenidos a la sección de HomeKit, Comenzamos…

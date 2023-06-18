@@ -1,9 +1,6 @@
 ---
 title: "Instalando Navegador en RetroPie"
 date: "2023-03-20"
-categories: 
-  - "raspberry"
-coverImage: "Instalando-Navegador-en-RetroPie-e1679323235310.png"
 ---
 
 Hola de nuevo, en esta entrada vamos a instalar un navegador web para RetroPie. Esta entrada forma parte de un grupo para ver el resto de entradas relacionadas entra [aquí](https://piscinadeentropia.es/raspberry/juguemos-con-retropie/).

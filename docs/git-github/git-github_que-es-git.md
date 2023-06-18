@@ -1,9 +1,6 @@
 ---
 title: "¿Que es Git?"
 date: "2022-07-22"
-categories: 
-  - "git-y-github"
-coverImage: "1-zzvdRmHGGXONZpuQ2FeqsQ-e1658470145880.png"
 ---
 
 Hola de nuevo, hoy traigo a la web una nueva entrada que tenia en mente hace mucho tiempo. Como ya podeís ver por el título hoy hablaremos de ¿Que es Git?

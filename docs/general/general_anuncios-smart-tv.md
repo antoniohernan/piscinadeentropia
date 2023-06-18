@@ -1,9 +1,6 @@
 ---
 title: "Anuncios en los SmartTV"
 date: "2022-01-05"
-categories: 
-  - "general"
-coverImage: "AD-e1641370070273.png"
 ---
 
 Hola de nuevo, hoy os traigo un tema que me lleva varios dias enfadando: Anuncios en los Smart TV

@@ -1,7 +1,6 @@
 ---
 title: "Apple"
 date: "2021-06-27"
-coverImage: "38449158-CB1F-4FB6-81F5-A1CB8824F096-e1624775711259.png"
 ---
 
 Bienvenido a la pagina acerca de Apple, en ella podrás encontrar  información acerca de esta compañía multimillonaria.

@@ -1,9 +1,6 @@
 ---
 title: "Adios Atom, Github archiva el proyecto"
 date: "2022-12-23"
-categories: 
-  - "general"
-coverImage: "atom-e1673714542104.png"
 ---
 
 Hola de nuevo, lectores

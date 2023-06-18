@@ -1,8 +1,6 @@
 ---
 title: "Bienvenid@s"
 date: "2021-05-29"
-categories: 
-  - "general"
 ---
 
 Hola, Bienvenidos a mi sitio web piscinadeentropia.es

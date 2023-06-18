@@ -1,9 +1,6 @@
 ---
 title: "Amazon Fire Tv Stick"
 date: "2021-07-12"
-categories: 
-  - "resenas-de-productos"
-coverImage: "Amazon_Fire_TV_Stick_logo-e1626082190508.png"
 ---
 
 Hola, ¿Que tal?. Hoy venia a hablaros de mis ultimas adquisiciones los Amazon Fire Tv Sick.

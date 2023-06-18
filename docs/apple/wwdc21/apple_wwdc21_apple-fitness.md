@@ -1,9 +1,6 @@
 ---
 title: "WWDC21 Apple Fitness+"
 date: "2021-06-22"
-categories: 
-  - "apple"
-coverImage: "CD0DBFD4-5534-4DC1-A8BC-DAA63C7DFAF6-e1624374647569.jpeg"
 ---
 
 En esta micro sección de la WWDC encontramos unas nuevas actualizaciones:

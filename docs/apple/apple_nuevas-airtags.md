@@ -1,9 +1,6 @@
 ---
 title: "Las nuevas Airtag"
 date: "2021-05-29"
-categories: 
-  - "apple"
-  - "resenas-de-productos"
 ---
 
 - ![](images/8CAAF008-F5EB-439C-9E53-1CE1320F0555.jpeg)

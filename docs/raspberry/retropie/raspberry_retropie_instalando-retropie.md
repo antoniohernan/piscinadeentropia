@@ -1,9 +1,6 @@
 ---
 title: "Instalando RetroPie"
 date: "2023-03-19"
-categories: 
-  - "raspberry"
-coverImage: "RetroPieLogo2015Download-700x544-1-e1679295565436.png"
 ---
 
 Hola de nuevo, en esta entrada vamos a instalar RetroPie y a aprender a usarlo para poder jugar a nuestros juegos retro favoritos y mucho mas...

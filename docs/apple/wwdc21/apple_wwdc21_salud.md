@@ -1,9 +1,6 @@
 ---
 title: "WWDC21 Salud"
 date: "2021-06-22"
-categories: 
-  - "apple"
-coverImage: "B2180E04-67EF-460A-80CD-FC730BF77106-e1624370176625.jpeg"
 ---
 
 Hola ayer ya hable de iCloud y Privacidad y hoy toca la sección de Salud.

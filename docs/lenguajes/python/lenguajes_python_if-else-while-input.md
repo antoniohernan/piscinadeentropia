@@ -1,8 +1,6 @@
 ---
 title: "Comentar, If, Else e input"
 date: "2021-07-07"
-categories: 
-  - "python"
 ---
 
 Hola, Bienvenidos de nuevo. Hoy vamos a hablas de las variables y de input.

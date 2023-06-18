@@ -1,10 +1,6 @@
 ---
 title: "Raspberry Pi 400"
 date: "2021-06-25"
-categories: 
-  - "raspberry"
-  - "resenas-de-productos"
-coverImage: "Captura-de-pantalla-2021-06-07-a-las-15.58.57-e1623074354710.png"
 ---
 
 Hola, perdonad pero es que cree la pagina sobre las Raspberry Pi y con la WWDC todavía no me había dado tiempo a publicar estada qué os prometí.

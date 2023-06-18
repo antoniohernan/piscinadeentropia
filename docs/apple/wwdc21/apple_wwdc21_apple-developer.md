@@ -1,9 +1,6 @@
 ---
 title: "WWDC21 Apple Developers"
 date: "2021-06-23"
-categories: 
-  - "apple"
-coverImage: "apple-developer-app-128x128_2x-e1624464400457.png"
 ---
 
 Esta es la ultima entrada, aunque para mucha gente no tenga interés esta sección la tengo que contar ya que esta pagina va sobre esos... sobre tecnología.

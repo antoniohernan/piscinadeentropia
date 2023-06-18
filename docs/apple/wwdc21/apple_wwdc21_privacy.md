@@ -1,9 +1,6 @@
 ---
 title: "WWDC21 Privacidad"
 date: "2021-06-21"
-categories: 
-  - "apple"
-coverImage: "og__ishslgdhhimq-e1624351453294.png"
 ---
 
 Perdonar por no haber escrito esta semana pero es que llevo una semana muy liado… y ya sabéis. Hoy vengo a hablaros de la sección de Privacidad de la pasada WWDC21.

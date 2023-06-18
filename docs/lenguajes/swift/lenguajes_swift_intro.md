@@ -1,7 +1,6 @@
 ---
 title: "Swift"
 date: "2021-09-06"
-coverImage: "swift-og-e1630916985401.png"
 ---
 
  

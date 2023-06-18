@@ -1,9 +1,6 @@
 ---
 title: "WWDC21 iCloud y iCloud+"
 date: "2021-06-21"
-categories: 
-  - "apple"
-coverImage: "Unknown.png"
 ---
 
 Bueno… no hay tregua acabo de acabar Privacidad y me he dicho ¿Por que no mas hoy? A si que aquí va el articulo sobre iCloud que os debía.

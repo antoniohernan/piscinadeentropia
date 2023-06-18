@@ -1,9 +1,6 @@
 ---
 title: "Las nuevas AirTag parte 2"
 date: "2021-05-30"
-categories: 
-  - "apple"
-  - "resenas-de-productos"
 ---
 
 Hola de nuevo, hoy vengo a hablaros otra vez de: Las AirTag, esta vez os hablaré de como funciona su modo perdido y su modo anti rastreo. Ademas os comentaré alguna cosa más sobre ellas, las AirTag.

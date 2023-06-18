@@ -1,9 +1,6 @@
 ---
 title: "WWDC21 watchOS 8"
 date: "2021-06-22"
-categories: 
-  - "apple"
-coverImage: "D795CB61-19AE-4A30-B262-25BCD9EC59BA-e1624372299877.png"
 ---
 
 Pues si, aquí esta la entrada de WatchOS 8 que os había prometido, os pido perdón por la interrupción de servicio que a habido en mi pagina a eso de las 16:30 del día 22 de Juni0.

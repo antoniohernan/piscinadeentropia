@@ -1,9 +1,6 @@
 ---
 title: "WWDC21 IOS15"
 date: "2021-06-07"
-categories: 
-  - "apple"
-coverImage: "Captura-de-pantalla-2021-06-21-a-las-18.51.37-e1624294446840.png"
 ---
 
 Hola, ¿Que tal?. Hoy vengo a hablaros de la WWDC21 en esta entrada encontrareis información sobre IOS 15.

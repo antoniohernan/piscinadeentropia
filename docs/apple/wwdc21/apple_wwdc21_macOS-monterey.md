@@ -1,9 +1,6 @@
 ---
 title: "WWDC21 macOS Monterey"
 date: "2021-06-23"
-categories: 
-  - "apple"
-coverImage: "Captura-de-pantalla-2021-06-23-a-las-17.10.01-e1624461040212.png"
 ---
 
 Hoy vengo con el penúltimo articulo (sin contar la conclusion) sobre la WWDC de 2021.

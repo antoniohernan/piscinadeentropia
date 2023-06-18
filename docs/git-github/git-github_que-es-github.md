@@ -1,9 +1,6 @@
 ---
 title: "¿Que es GitHub?"
 date: "2021-07-02"
-categories: 
-  - "git-y-github"
-coverImage: "GitHub-Logo-e1625213979241.jpg"
 ---
 
 Hola, como ya os había prometido aquí esta la entrada acerca de GitHub.

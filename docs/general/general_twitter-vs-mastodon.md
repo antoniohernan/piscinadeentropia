@@ -1,9 +1,6 @@
 ---
 title: "Twitter vs Mastodon"
 date: "2023-03-04"
-categories: 
-  - "general"
-coverImage: "Twitter-VS-Mastodon-e1678000336904.png"
 ---
 
 Hola de nuevo, hoy traigo un tema de actualidad que seguramente muchos habréis visto en las noticias e incluso algunos lo podréis haber visto en la red social, estoy hablando de la compra de Twitter por Elon Musk.

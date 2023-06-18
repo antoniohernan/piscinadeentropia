@@ -1,8 +1,7 @@
 ---
 title: "Vulnerabilidad el los nuevos chips de Apple M1"
 date: "2021-06-01"
-categories: 
-  - "apple"
+
 ---
 
 ![](images/FB4BD13E-3EEC-49E5-A4A1-F9254EC2B84F.jpeg)

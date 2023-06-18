@@ -1,8 +1,6 @@
 ---
 title: "Mis malas experiencias con 5 plataformas"
 date: "2021-08-20"
-categories: 
-  - "resenas-de-productos"
 ---
 
 Hola, lectores hoy vengo con un nuevo articulo: Las 10 apps que no te recomiendo, últimamente he tenido algunas experiencias bastante malas con algunas apps y hoy os las presento en este articulo.

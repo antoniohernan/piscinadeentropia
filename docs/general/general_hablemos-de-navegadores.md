@@ -1,9 +1,6 @@
 ---
 title: "Hablemos de Navegadores"
 date: "2022-01-04"
-categories: 
-  - "general"
-coverImage: "Navegadores-e1641322834272.png"
 ---
 
 Hoy vamos ha hablar sobre navegadores, empezando por su historia...

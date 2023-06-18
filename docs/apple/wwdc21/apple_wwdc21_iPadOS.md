@@ -1,9 +1,7 @@
 ---
 title: "WWDC21 IPadOS 15"
 date: "2021-06-10"
-categories: 
-  - "apple"
-coverImage: "Captura-de-pantalla-2021-06-21-a-las-19.06.02-e1624295212943.png"
+
 ---
 
 Hola, hoy vengo con la actualización de IPadOS que se anunció en la WWDC.

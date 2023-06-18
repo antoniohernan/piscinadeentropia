@@ -1,9 +1,6 @@
 ---
 title: "WWDC21 AirPods"
 date: "2021-06-09"
-categories: 
-  - "apple"
-coverImage: "Captura-de-pantalla-2021-06-21-a-las-19.01.37-e1624295009590.png"
 ---
 
 Hola, Buenos dias.
