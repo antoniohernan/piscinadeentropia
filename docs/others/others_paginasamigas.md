@@ -1,8 +1,10 @@
 ---
-title: "Paginas Amigas"
-date: "2021-05-30"
 hide:
   - footer
+---
+---
+title: "Paginas Amigas"
+date: "2021-05-30"
 ---
 
 ![](../images/paginas_amigas.jpeg)

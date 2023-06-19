@@ -1,8 +1,10 @@
 ---
-title: "Acerca de Piscina de Entropia y de Mi"
-date: "2021-05-29"
 hide:
   - footer
+---
+---
+title: "Acerca de Piscina de Entropia y de Mi"
+date: "2021-05-29"
 ---
 
 Bienvenid@s a [piscinadeentropia.es](https://piscinadeentropia.es)

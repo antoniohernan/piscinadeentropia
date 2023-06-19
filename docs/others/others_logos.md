@@ -1,8 +1,10 @@
 ---
-title: "Logos"
-date: "2022-01-08"
 hide:
   - footer
+---
+---
+title: "Logos"
+date: "2022-01-08"
 ---
 
 ## Tercer Logo (Actual)

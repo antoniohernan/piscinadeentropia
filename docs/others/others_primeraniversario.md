@@ -1,8 +1,10 @@
 ---
-title: "1er Aniversario de piscina de entropia"
-date: "2022-05-29"
 hide:
   - footer
+---
+---
+title: "1er Aniversario de piscina de entropia"
+date: "2022-05-29"
 ---
 
 <iframe width="1022" height="575" src="https://www.youtube.com/embed/ds_Qe2WOLdQ" title="Primer aniversario" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
