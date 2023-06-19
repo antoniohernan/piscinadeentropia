@@ -3,6 +3,8 @@ title: "Appel Pencil"
 date: "2021-06-26"
 ---
 
+![](../images/apple_pencil_1gen-2.png)
+
 Hola, ¿Que tal?. Hoy vengo a hablar de… El Appel Pencil.
 
 El Apple Pencil es una herramienta muy útil a la hora de dibujar con por ejemplo Procreate y hoy os contare varias cosas sobre el.
@@ -38,11 +40,11 @@ Actualmente existen dos modelos de Appel Pencil:
 
 1ª Generación (Yo tengo este)
 
-![](images/0C3BD744-97A7-4830-B4D4-07156138BF36-200x200.jpeg)
+![](../images/apple_pencil_1gen.jpeg)
 
 2ªGeneración
 
-![](images/AAF82724-7907-4BD5-ABA9-5F614424794E-200x200.jpeg)
+![](../images/apple_pencil_2gen.jpeg)
 
 Aunque esto también depende del modelo de iPad ya que hay modelos de iPad que no son compatibles con el de 2ªGeneración.
 
@@ -70,7 +72,7 @@ El de primera Generación es compatible con:
 
 **4.Mi experiencia**
 
-La verdad llevo como…1 o 2 años con el y no me ha decepciona, de hecho si pasa todo esto de la pandemia y tenéis ocasión esta muy bien acudir a un [Today at Appel](https://www.apple.com/es/today/) que son los cursos gratuitos que da Appel. Así que si podéis apuntaros a uno no os lo penséis.
+La verdad llevo como…1 o 2 años con el y no me ha decepcionado, de hecho si pasa todo esto de la pandemia y tenéis ocasión esta muy bien acudir a un [Today at Apple](https://www.apple.com/es/today/) que son los cursos gratuitos que da Appel. Así que si podéis apuntaros a uno no os lo penséis.
 
 Ademas para que lo sepáis tanto el 1ªgeneración como el 2ª se cargan desde el iPad conectándolo por lighting en el caso del 1ª y por inalámbrico en el 2ª, sobre el inalámbrico no lo se pero el 1ª ademas te permite cargarlo directamente con el cable lighting y un adaptador.
 
@@ -80,8 +82,7 @@ Aunque este articulo valla sobre el Appel Pencil también tengo que hablar de su
 
 Logitech Crayon, una de sus diferencias es que no reconoce la presión que ejerces si no que para cambiar la fuerza que haces lo tienes que inclinar. Aunque por lo demás no tiene muchas diferencias ya que usa tecnología similar a la del Appel. Aunque otra diferencia destacable es que tiene un botón para encenderlo y apagarlo.(Es compatible a partir de modelos de iPad de 2018).
 
-![](images/915F9458-CB79-446D-8D6D-F57D94F29C7C-200x172.png)
-
+![](../images/logitech_crayon.png)
 **6.Conclusión**
 
 A partir de aquí es vuestra decisión si queréis comprar uno u otro pero yo me decante por el Appel Pencil, pero los dos me parecen grandes productos a continuación os dejo los precios.

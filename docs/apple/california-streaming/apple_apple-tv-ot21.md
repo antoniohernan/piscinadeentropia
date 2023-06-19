@@ -3,6 +3,8 @@ title: "Apple TV+ Otoño21"
 date: "2021-09-19"
 ---
 
+![](../../images/apple-tv%2B.jpg)
+
 Hola, como os había contado en la anterior entrada. Este Otoño llegan muchas novedades a la plataforma de Streaming de Apple, a continuación os dejo una lista de las nuevas series y sus fechas de lanzaamiento.
 
 - The Morning Show | 17/9

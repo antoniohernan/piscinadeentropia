@@ -3,6 +3,8 @@ title: "WWDC21 Apple Developers"
 date: "2021-06-23"
 ---
 
+![](../../images/developer-app-icon.png.png)
+
 Esta es la ultima entrada, aunque para mucha gente no tenga interés esta sección la tengo que contar ya que esta pagina va sobre esos... sobre tecnología.
 
 - **Apple Developer**
@@ -20,4 +22,4 @@ Y esto ha sido todo sobre la sección de Apple Developers, no olvides leer la co
 
 **Isaaker.**
 
-[Ir al siguiente articulo de la WWDC](https://piscinadeentropia.es/wwdc21-conclusion-y-cierre/)
+

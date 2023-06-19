@@ -1,6 +1,8 @@
 ---
 title: "Logos"
 date: "2022-01-08"
+hide:
+  - footer
 ---
 
 ## Tercer Logo (Actual)

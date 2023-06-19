@@ -3,6 +3,8 @@ title: "WWDC21 watchOS 8"
 date: "2021-06-22"
 ---
 
+![](../../images/watchOS.png)
+
 Pues si, aquí esta la entrada de WatchOS 8 que os había prometido, os pido perdón por la interrupción de servicio que a habido en mi pagina a eso de las 16:30 del día 22 de Juni0.
 
 - **watchOS 8**
@@ -21,4 +23,4 @@ Pues todo esto es lo que nos han contado desde el Apple Park sobre watchOS, hast
 
  
 
-[Ir al siguiente articulo de la WWDC](https://piscinadeentropia.es/wwdc21-apple-fitness/)
+

@@ -3,6 +3,8 @@ title: "WWDC21 Apple Fitness+"
 date: "2021-06-22"
 ---
 
+![](../../images/fitness%2B.jpeg)
+
 En esta micro sección de la WWDC encontramos unas nuevas actualizaciones:
 
 - Nueva serie de Entrenamientos por Jeanette Jenkins
@@ -12,4 +14,3 @@ Esta sección ha sido corta pero no la podia omitir, hasta la siguiente entrada!
 
 **Isaaker.**
 
-[Ir al siguiente articulo de la WWDC](https://piscinadeentropia.es/wwdc21-homekit/)

@@ -3,6 +3,8 @@ title: "Apple Watch 7"
 date: "2021-10-24"
 ---
 
+![](../../images/apple-watch-7.png)
+
 Hola, cuánto tiempo… Se me está amontonando el trabajo tengo que acabar todas estas entradas y ponerme con las de Unleashed el ultimo event a si que…
 
 El ultimo modelo de Apple Watch, el modelo 7 del que vengo a hablaros hoy la verdad es que me dejo sorprendió, ya que muchos esperábamos que pudiera hacer cosas revolucionarias pero como veréis a continuación las mejoras son pocas:

@@ -1,6 +1,8 @@
 ---
 title: "Política de Privacidad"
 date: "2021-05-30"
+hide:
+  - footer
 ---
 
 ## Quienes somos

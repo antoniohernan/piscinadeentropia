@@ -4,6 +4,8 @@ date: "2021-06-10"
 
 ---
 
+![](../../images/iPadOS.png)
+
 Hola, hoy vengo con la actualización de IPadOS que se anunció en la WWDC.
 
 - **iPadOS 15**
@@ -22,4 +24,4 @@ Y esto es todo por hoy, hasta mañana con el articulo de Privacidad.
 
 **Isaaker.**
 
-[Ir al siguiente articulo de la WWDC](https://piscinadeentropia.es/wwdc21-privacidad/)
+

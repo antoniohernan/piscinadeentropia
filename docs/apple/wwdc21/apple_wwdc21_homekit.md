@@ -3,6 +3,8 @@ title: "WWDC21 HomeKit"
 date: "2021-06-22"
 ---
 
+![](../../images/apple_homekit.jpeg)
+
 Bienvenidos a la sección de HomeKit, Comenzamos…
 
 - **HomeKit**
@@ -18,4 +20,3 @@ Y estas son las cosas que se han anunciado en este Apple Event acerca de HomeKit
 
 **Isaaker.**
 
-[Ir al siguiente articulo de la WWDC](https://piscinadeentropia.es/wwdc21-macos-monterey/)

@@ -3,6 +3,8 @@ title: "WWDC21 Privacidad"
 date: "2021-06-21"
 ---
 
+![](../../images/apple-security-logo.jpeg)
+
 Perdonar por no haber escrito esta semana pero es que llevo una semana muy liado… y ya sabéis. Hoy vengo a hablaros de la sección de Privacidad de la pasada WWDC21.
 
 - **Privacidad**
@@ -17,4 +19,3 @@ La verdad esta sección a sido corta pero me ha gustado mucho a si que espero qu
 
 **Isaaker.**
 
-[Ir al siguiente articulo de la WWDC](https://piscinadeentropia.es/icloud-wwdc21/)

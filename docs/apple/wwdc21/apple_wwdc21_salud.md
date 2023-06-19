@@ -3,6 +3,8 @@ title: "WWDC21 Salud"
 date: "2021-06-22"
 ---
 
+![](../../images/apple-health.jpeg)
+
 Hola ayer ya hable de iCloud y Privacidad y hoy toca la sección de Salud.
 
 - **Salud**

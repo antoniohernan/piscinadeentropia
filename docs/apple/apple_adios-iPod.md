@@ -3,7 +3,7 @@ title: "Hasta fin de exixtencias, Apple dice adiós al iPod"
 date: "2022-05-15"
 ---
 
- 
+ ![](../images/apple-ipod-first-gen.jpg)
 
 Recientemente, Apple ha anunciado mediante una [nota de prensa](https://www.apple.com/newsroom/2022/05/the-music-lives-on/) la retirada del iPod, el predecesor del iPhone que llego hace más de veinte años con el eslogan 1.000 canciones en tu bolsillo y revolucionó la industria de la musica:
 
@@ -19,7 +19,7 @@ Por ello hoy hare un pequeño analisis del iPod a lo largo de la historia y habl
 
 El iPod fue lanzado el 23 de Octubre de 2001 por Steve Jobs que dijo: "El iPod pone mil Canciones en tu Bolsillo", y pese a algunos errores acabo siendo el reproductor de musica mas vendido del mundo, y aunque no fue el primero de su tipo marco la diferencia gracias a algunas de sus caracteristica como su compatibilidad con iTunes en la que se podia comprar canciones desde 0,99 €.
 
-![](images/1200px-IPod_family-300x177.png)
+![](../images/ipod-family.png)
 
 Posteriormente se lanzarian mas gamas de el producto como: El iPod Mini, Nano, Shuffle o el conocido iPod touch. Todos ellos lanzandose en el siguiente orden (Por Meses):
 

@@ -3,6 +3,8 @@ title: "WWDC21 macOS Monterey"
 date: "2021-06-23"
 ---
 
+![](../../images/macOS-monterey.png)
+
 Hoy vengo con el penúltimo articulo (sin contar la conclusion) sobre la WWDC de 2021.
 
 - **macOS**
@@ -16,4 +18,4 @@ Esto es todo para macOs Monterey, el siguiente es el ultimo articulo (sin contar
 
 **Isaaker.**
 
-[Ir al siguiente articulo de la WWDC](https://piscinadeentropia.es/wwdc21-apple-developers/)
+

@@ -3,6 +3,8 @@ title: "WWDC21 AirPods"
 date: "2021-06-09"
 ---
 
+![](../../images/airpods_pro.png)
+
 Hola, Buenos dias.
 
 Hoy os vengo a hablar de la sección de AirPods del Apple Event, a continuación os dejo una lista con las nuevas funciones:
@@ -17,4 +19,4 @@ Y esto es todo para los AirPods.
 
 **Isaaker.**
 
-[Ir al siguiente articulo de la WWDC](https://piscinadeentropia.es/wwdc21-ipados/)
+

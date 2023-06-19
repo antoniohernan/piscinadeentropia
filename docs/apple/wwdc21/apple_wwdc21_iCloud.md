@@ -3,6 +3,8 @@ title: "WWDC21 iCloud y iCloud+"
 date: "2021-06-21"
 ---
 
+![](../../images/iCloud_logo.png)
+
 Bueno… no hay tregua acabo de acabar Privacidad y me he dicho ¿Por que no mas hoy? A si que aquí va el articulo sobre iCloud que os debía.
 
 - **iCloud**
@@ -19,6 +21,5 @@ Y esto era todo por la sección de iCloud, la siguiente sección es la de Salud�
 
 **Isaaker.**
 
-[Ir al siguiente articulo de la WWDC](https://piscinadeentropia.es/wwdc21-salud/)
 
 29may21birday

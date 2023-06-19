@@ -3,6 +3,8 @@ title: "WWDC21 Conclusion y Cierre"
 date: "2021-06-23"
 ---
 
+![](../../images/bombilla-idea.png)
+
 Bueno Lectores y Developers esto a sido todo lo que se ha presentado en la WWDC, curiosamente tengo que mencionar ya que mucha gente me lo a preguntado "¿Han sacado algún producto?”, pues... siento decirlo pero no solo se ha anunciado software, software que por cierto se publicara en el siguiente orden:
 
 1. Beta para desarrolladores: Lunes 7 de Junio de 2021

@@ -3,13 +3,15 @@ title: "iPad 2022"
 date: "2021-09-20"
 ---
 
+ ![](../../images/iPad22.png)
+
 Hola, como ya os habréis dado cuenta por él titulo hoy vamos a hablar de los Nuevos iPad.
 
  
 
 En concreto de el Modelo Normal y del Mini, por que parece ser que no hubo actualización de ninguno de los otros dos modelos.
 
-iPad (9ªGeneración)
+## iPad (9ªGeneración)
 
 Aunque el iPad Normal no incluye tantas mejoras como el iPad mini, también se a actualizado. A continuación os dejo una lista de las novedades.(Diferencias con el iPad 9ª Generación).
 
@@ -29,7 +31,7 @@ Aunque el iPad Normal no incluye tantas mejoras como el iPad mini, también se a
 
 No sé si me dejare algún cambio, pero en mi opinion no hay muchas diferencias. Yo personalmente optaría por el Mini, a modo de información una diferencia mala del mini con este. Es la compatibilidad de los teclados, ya que el Mini es compatible con teclados Bluetooth pero no lo es con el Smart Keyboard.
 
-iPad Mini (6ªGeneración)
+## iPad Mini (6ªGeneración)
 
 Como ya os he dicho el iPad Mini cuenta con muchísimas diferencias tanto con el modelo iPad 9ª Generación como con el iPad mini 5ªGeneración.
 
@@ -62,7 +64,7 @@ Como ya os he dicho el iPad Mini cuenta con muchísimas diferencias tanto con el
 
 Haber, sé que esta lista abruma un poco pero si la lees detenidamente veras las diferencias. De todas Formas ahora os dejo las fechas y unos enlaces.
 
-**iPad (9ªGeneración)**
+## Comprar iPad (9ªGeneración)
 
 Fecha de Reserva: Ya se encuentra disponible para Reservar
 
@@ -70,7 +72,7 @@ Fecha de Disponibilidad: 24/9
 
 [Pagina del iPad (9ªGeneración)](https://www.apple.com/es/ipad-10.2/)
 
-**iPad Mini (6ªGeneración)**
+## Comprar iPad Mini (6ªGeneración)
 
 Fecha de Reserva: Ya se encuentra disponible para Reservar
 
@@ -78,7 +80,7 @@ Fecha de Disponibilidad: 24/9
 
 [Pagina del iPad Mini (6ªGeneración)](https://www.apple.com/es/ipad-mini/)
 
-**iPad (General)**
+## Paginas de iPad (General)
 
 [Comparar](https://www.apple.com/es/ipad/compare/)
 

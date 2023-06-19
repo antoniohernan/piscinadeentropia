@@ -3,6 +3,8 @@ title: "WWDC21 IOS15"
 date: "2021-06-07"
 ---
 
+![](../../images/iOS_15.png)
+
 Hola, ¿Que tal?. Hoy vengo a hablaros de la WWDC21 en esta entrada encontrareis información sobre IOS 15.
 
 Se ha celebrado hace poco, exactamente el dia 7 de Junio, y os traigo una lista de los productos, servicios y actualizaciones que ha traído con el.
@@ -69,4 +71,4 @@ Los nuevos mapas 3d de Apple ya están publicados.
 
  
 
-[Ir al siguiente articulo de la WWDC](https://piscinadeentropia.es/wwdc-airpods/)
+
