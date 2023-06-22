@@ -3,7 +3,7 @@ title: "Python"
 date: "2021-06-01"
 ---
 
-![](images/52E03DF5-518B-4AA6-9D12-BA8FF311BDA2.png)
+![](../../images/python_logo.png)
 
 **Python** es un [lenguaje de programación](https://es.wikipedia.org/wiki/Lenguaje_de_programaci%C3%B3n)[interpretado](https://es.wikipedia.org/wiki/Int%C3%A9rprete_(inform%C3%A1tica)) cuya filosofía hace hincapié en la legibilidad de su [código](https://es.wikipedia.org/wiki/Codigo_fuente).[2​ Se trata de un lenguaje de programación](https://es.wikipedia.org/wiki/Python#cite_note-Glosario_LUCA,_2020-2) [multiparadigma](https://es.wikipedia.org/wiki/Lenguaje_de_programaci%C3%B3n#Paradigma_de_programaci%C3%B3n), ya que soporta parcialmente la [orientación a objetos](https://es.wikipedia.org/wiki/Programaci%C3%B3n_orientada_a_objetos), programación imperativa y, en menor medida, [programación funcional](https://es.wikipedia.org/wiki/Programaci%C3%B3n_funcional). Es un [lenguaje interpretado](https://es.wikipedia.org/wiki/Lenguaje_de_programaci%C3%B3n_interpretado), [dinámico](https://es.wikipedia.org/wiki/Tipado_din%C3%A1mico) y [multiplataforma](https://es.wikipedia.org/wiki/Multiplataforma).
 

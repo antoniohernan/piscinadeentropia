@@ -3,6 +3,8 @@ title: "¿Que es GitHub?"
 date: "2021-07-02"
 ---
 
+![](../images/github-logo.jpg)
+
 Hola, como ya os había prometido aquí esta la entrada acerca de GitHub.
 
 GitHub es una plataforma de desarrollo colaborativo, que funciona mediante el sistema de control de versiones Git. Anteriormente esta compañía se llamaba Logical Awesome LLC. Aunque después paso a llamarse GitHub, en 2018 Microsoft Corporation lo compro por 7500 millones de dólares convirtiéndolo a su vez en una de sus Filiales.

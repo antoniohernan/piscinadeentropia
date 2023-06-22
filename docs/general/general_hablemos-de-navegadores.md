@@ -3,6 +3,8 @@ title: "Hablemos de Navegadores"
 date: "2022-01-04"
 ---
 
+![](../images/navegadores-image.png)
+
 Hoy vamos ha hablar sobre navegadores, empezando por su historia...
 
 El primer navegador del mundo fue creado por Tim-Berners-Lee el padre de el concepto World Wide Web, en sus inicios el navegador tomo el mismo nombre que el mismo concepto anteriormente mencionado sin embargo, se le cambio el nombre a Nexus para evitar confusiones. El problema de este navegador fue la compatibilidad ya que solo funcionaba en los ordenadores NeXT (empresa fundada por Stve Jobs en 1985).

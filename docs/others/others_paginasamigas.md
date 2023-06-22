@@ -18,4 +18,4 @@ Aquí podrás encontrar las Paginas amigas nuestras:
 
 [Visitar](https://pruebadeconcepto.es)
 
-**Si deseas formar parte de nuestras páginas amigas, pulsa el siguiente [enlace.](mailto:piscinadeentropia.es@gmail.com)**
+**Si deseas formar parte de nuestras páginas amigas, pulsa el siguiente [enlace.](mailto:isaaker@piscinadeentropia.es)**

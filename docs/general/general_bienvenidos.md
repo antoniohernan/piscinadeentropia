@@ -3,6 +3,8 @@ title: "Bienvenid@s"
 date: "2021-05-29"
 ---
 
+![](../images/pisicina_de_entropia_logo.png)
+
 Hola, Bienvenidos a mi sitio web piscinadeentropia.es
 
 Tengo que admitir que no tengo mucha experiencia en esto de los sitios web, pero yo creo que saldrá bien. Ahora mismo de hecho he flipado cuando he visto la tal cantidad de ajustes que se le pueden realizar a esto y creo que aquí hay para pasar una buena temporada cambiando cosas.

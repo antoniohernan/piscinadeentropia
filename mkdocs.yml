@@ -72,7 +72,7 @@ nav:
     - General: 
         - "Bienvenidos": "general/general_bienvenidos.md"
         - "Adios Atom, Github archiva el proyecto": "general/general_adios-atom-github-archiva-proyecto.md"
-        - "Amazon Fire Tv Stick": "general/general_amazon-fire-tv.md"
+        - "Amazon Fire Tv Stick": "general/general_amazon-fire-stick.md"
         - "Anuncios en los SmartTV": "general/general_anuncios-smart-tv.md"
         - "La diferencia entre un Bit y un Byte": "general/general_diferencias-entre-un-bit-y-un-byte.md"
         - "Hablemos de navegadores": "general/general_hablemos-de-navegadores.md"
@@ -108,7 +108,7 @@ nav:
         - "Apple Pencil": "apple/apple_apple-pencil.md"
         - "Aqara en la Apple Store": "apple/apple_aqara-en-la-apple-store.md"
         - "California Streaming": "apple/apple_california-streaming.md"
-        - "Citas de Steve Jobs": "apple/citas-de-steve-jobs.md"
+        - "Citas de Steve Jobs": "apple/apple_citas-de-steve-jobs.md"
         - "iOS 14.7": "apple/apple_iPad2022.md"
         - "Las nuevas AirTags": "apple/apple_nuevas-airtags.md"
         - "Las nuevas AirTags 2": "apple/apple_nuevas-airtags-2.md"

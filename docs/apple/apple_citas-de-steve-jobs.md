@@ -3,7 +3,7 @@ title: "Citas de Steve Jobs"
 date: "2021-10-09"
 ---
 
- 
+ |[](../images/steve-jobs.jpeg)
 
 1. _“Este es un homenaje a los locos. A los inadaptados. A los rebeldes. A los alborotadores. A las fichas redondas en los huecos cuadrados. A los que ven las cosas de forma diferente. A ellos no les gustan las reglas, y no sienten ningún respeto por el statu quo. Puedes citarlos, discrepar de ellos, glorificarlos o villanizarlos. Casi lo único que no puedes hacer es ignorarlos. Porque ellos cambian las cosas. Son los que hacen avanzar al género humano. Y aunque algunos los vean como a locos, nosotros vemos su genio. Porque las personas que están lo suficientemente locas como para pensar que pueden cambiar el mundo… son quienes lo cambian”. Think Different (1997)”_
 2. _“Morir siendo el hombre mas rico del cementerio no tiene importancia. Prefiero irme a la cama pensando que he hecho algo maravilloso, eso si es realmente maravilloso.”_

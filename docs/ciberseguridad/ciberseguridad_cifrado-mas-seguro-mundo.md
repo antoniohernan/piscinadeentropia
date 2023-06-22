@@ -3,6 +3,8 @@ title: "El cifrado mas seguro del mundo"
 date: "2021-12-29"
 ---
 
+![](../images/AES.png)
+
 Hola, hoy lectores os traigo un tema de ciberseguridad ¿Cual es el cifrado mas seguro del mundo?
 
 Actualmente se dice que es el cifrado AES-256 bits, de hecho este cifrado es el que usa la NSA(La agencia de seguridad nacional de Estados Unidos) para cifrar los archivos de alto secreto.
@@ -30,4 +32,3 @@ De hecho el hackeo de este algoritmo es muy dificil debido a su clave de 256 bit
 
 Bueno y eso es todo por hoy, que paseis unas buenas fiestas.
 
-**Isaaker.**

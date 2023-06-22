@@ -3,7 +3,9 @@ title: "Instalando Navegador en RetroPie"
 date: "2023-03-20"
 ---
 
-Hola de nuevo, en esta entrada vamos a instalar un navegador web para RetroPie. Esta entrada forma parte de un grupo para ver el resto de entradas relacionadas entra [aquí](https://piscinadeentropia.es/raspberry/juguemos-con-retropie/).
+![](../../images/navegadro_retropie.png)
+
+Hola de nuevo, en esta entrada vamos a instalar un navegador web para RetroPie. Esta entrada forma parte de un grupo para ver el resto de entradas relacionadas entra [aquí](https://piscinadeentropia.es/raspberry/raspberry_juguemos-con-retropie/).
 
 Existen dos navegadores que se pueden instalar en RetroPie, uno es Firefox ESR y el otro es Chromium (Es en el que se basa Chrome).
 
@@ -34,4 +36,4 @@ Aunque no vayan a ser el navegador mas rápido del mundo por las limitaciones de
 
 Y esto es todo por esta entrada, os recuerdo que:
 
-**Tengo pensado continuar con el tema de RetroPie, por ello he creado esta sub página donde puedes [ver las entradas del tema](https://piscinadeentropia.es/raspberry/juguemos-con-retropie/).**
+**Tengo pensado continuar con el tema de RetroPie, por ello he creado esta sub página donde puedes [ver las entradas del tema](https://piscinadeentropia.es/raspberry/raspberry_retropie_intro.md).**

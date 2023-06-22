@@ -3,6 +3,7 @@ title: "Mis malas experiencias con 5 plataformas"
 date: "2021-08-20"
 ---
 
+
 Hola, lectores hoy vengo con un nuevo articulo: Las 10 apps que no te recomiendo, últimamente he tenido algunas experiencias bastante malas con algunas apps y hoy os las presento en este articulo.
 
 1. En el Numero 1, de hoy tenemos a: **Marvel App**. Ya sé que muchos no la conoceréis pero no os la recomiendo, es una  app para crear prototipos de apps. Diréis ¿Coooooomo? pues sí sirve para eso y la verdad era una app muy confusa, encima de todo me mandaban correos en otro idioma y me ponían nerviosismo. Pero eso no es todo la peor parte vino cuando me quise dar de baja, yo me intentaba dar de baja y me decía que le escribiera una palabra de confirmación, cuando lo hacia me redirijia a una pagina y se quedaba colgado. Lo intente con varios ordenadores e incluso hoy después de varios años lo he intentado y no funciona ni el botón de dar de baja.

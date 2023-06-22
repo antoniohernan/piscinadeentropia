@@ -3,6 +3,8 @@ title: "FIDO Alliance y Apple, el futuro de las contraseñas"
 date: "2022-10-29"
 ---
 
+![](../images/fido-passkeys.png)
+
 Hola, de nuevo lectores. Llevo bastante tiempo sin escribir una entrada y ya era momento de crear una nueva, el tema que traigo hoy a la web trata sobre las nuevas Apple Pass Keys y la Alianza FIDO.
 
 Desde la ultima y reciente actualización (iOS 16, MacOS Ventura y iPadOS 16) Apple a incluido un nuevo sistema de Autenticación llamado Apple Pass Keys, este sistema se basa en las ya conocidas claves publica y privada. Pero... ¿Por que es seguro realmente este sistema?:

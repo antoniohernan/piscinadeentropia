@@ -3,6 +3,8 @@ title: "Instalando RetroPie"
 date: "2023-03-19"
 ---
 
+![](../../images/pi-hole-logo.jpg)
+
 Hola de nuevo, en esta entrada vamos a instalar RetroPie y a aprender a usarlo para poder jugar a nuestros juegos retro favoritos y mucho mas...
 
 RetroPie es un cruce entre emuladores para videojuegos (como ScummVM) y un sistema operativo (como Ubuntu), RetroPie se ejecuta a partir del Raspberry Pi OS que es una distribución de Debian (Linux) pero incluye con ella muchos emuladores y permite utilizar mandos bluetooth, ver películas con su nueva función Kodi y mucho mas...
@@ -13,7 +15,7 @@ Existen varias formas de proceder por ello te dejo a continuación las opciones,
 
 #### Instalar con Raspberry Pi Imager (Recomendado)
 
-![](images/IMAGING-UTILITY-WRITE-e1679296832838-200x130.png)
+![](../../images/raspberry-writer.png)
 
 1. Instala Raspberry Pi Imager desde [aquí](https://www.raspberrypi.com/software/raspberry-pi-desktop/)
 2. Conecta el disco que quieres usar al equipo
@@ -27,7 +29,7 @@ Existen varias formas de proceder por ello te dejo a continuación las opciones,
 
 #### Instalar con otro Imager diferente
 
-![](images/Captura-de-pantalla-2023-03-20-a-las-8.21.58-e1679296966821-200x119.png)
+![](../../images/balena-etcher-flasher.png)
 
 En nuestro caso vamos a usar [Etcher](https://www.balena.io/etcher) que es uno de los Imager mas famosos pero cada uno puede usar el de su preferencia ya que tienen un funcionamiento similar y por ello estos pasos se aplican a todos (También se puede usar como Imager Raspberry Pi Imager pero dandole nosotros la imagen que queremos que escriba, sin embargo tendremos un resultado similar a el de la anterior opción).
 
@@ -54,7 +56,7 @@ En nuestro caso vamos a usar [Etcher](https://www.balena.io/etcher) que es uno d
 
 #### Instalar con PINN (similar a [NOOBS](https://github.com/raspberrypi/noobs))
 
-![](images/pinn_advanced-e1679298413883-200x158.jpeg)
+![](../../images/pinn-captura.jpeg)
 
 Para quien no lo sepa, antes de que existiera Imager Raspberry Pi diseño un sistema llamado [NOOBS](https://github.com/raspberrypi/noobs) que te permitía instalar directamente el sistema operativo que quisieras en tu Raspberry Pi directamente desde ella tan solo con conexión a internet "sin necesidad de otro ordenador" para grabar la tarjeta. En la actualidad NOOBS ya no obtiene soporte y Raspberry Pi no recomienda su uso, sin embargo existe un Fork del mismo llamado [PINN](https://github.com/procount/pinn) y que todavía se puede utilizar.
 
@@ -82,4 +84,4 @@ Para leer sobre otras opciones, puedes consultar la guía oficial de instalació
 
  
 
-**Tengo pensado continuar con el tema de RetroPie, por ello he creado esta sub página donde puedes [ver las entradas del tema](https://piscinadeentropia.es/raspberry/juguemos-con-retropie/), mas adelante publicaré Setup RetroPie.**
+**Tengo pensado continuar con el tema de RetroPie, por ello he creado esta sub página donde puedes [ver las entradas del tema](https://piscinadeentropia.es/raspberry/raspberry_retropie_intro.md), mas adelante publicaré Setup RetroPie.**

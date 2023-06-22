@@ -5,9 +5,9 @@ date: "2021-05-30"
 
 Hola de nuevo, hoy vengo a hablaros otra vez de: Las AirTag, esta vez os hablaré de como funciona su modo perdido y su modo anti rastreo. Ademas os comentaré alguna cosa más sobre ellas, las AirTag.
 
-![](images/6AB09B46-9B7A-4EB8-A83F-FC7F3700C437-612x1024.jpeg)
+![](../images/airtags-2.jpeg)
 
-Anti Rastreo
+## Anti Rastreo
 
 Tiene identificadores Bluetooth únicos que cambian con frecuencia. Esto ayuda a evitar que se te pueda rastrear cuando vas de un lugar a otro. Cuando se utiliza la red de la app Buscar para localizar un dispositivo sin conexión o AirTag, toda la información queda protegida con cifrado de extremo a extremo. Nadie, ni siguiera Apple, conoce la ubicación o identidad de ninguno de los usuarios o dispositivos que ayudan a localizar un AirTag que se ha perdido.
 
@@ -15,7 +15,7 @@ AirTag también se ha diseñado para impedir el seguimiento no deseado. Para evi
 
 También tengo que mencionar que si tienes activado el Modo Familia de ICloud tu AirTag solo aparecerá en tus dispositivos no se podrá ver desde el de otro miembro solo desde tus dispositivos vinculados con tu cuenta de ICloud.
 
-Modo Perdido
+## Modo Perdido
 
 El modo perdido se usa para que cuando pierdas un objeto ocurra lo siguiente:
 
@@ -28,6 +28,5 @@ El modo perdido se usa para que cuando pierdas un objeto ocurra lo siguiente:
 
 Esto no solo funciona con las AirTag sino que también con otros dispositivos de Apple pero eso es otro tema, lo ultimo que mencionaros es sobre el llavero por que seguro que algun@ os habéis preguntado “¿Oye, y ese llavero?” Pues lo he fabricado con una impresora 3D (intentare hacer una entrada acerca de ella) así que eso es todo por esta Entrada.
 
-**Isaaker.**
 
-Parte de la información a sido obtenida del [Apple Support](https://support.apple.com/es-es).
+**Parte de la información a sido obtenida del [Apple Support](https://support.apple.com/es-es)**

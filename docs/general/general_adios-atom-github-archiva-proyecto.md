@@ -3,6 +3,8 @@ title: "Adios Atom, Github archiva el proyecto"
 date: "2022-12-23"
 ---
 
+![](../images/adios-atom.png)
+
 Hola de nuevo, lectores
 
 Hoy os traigo una nueva noticia al blog, como imagino que abres leído en el titulo de la entrada, GitHub hace escasos dias archivo totalmente el proyecto Atom de de forma oficial. Aunque esto ya fue anunciado el 8 de Junio de 2022, el cierre oficial ocurrió el 15 de Diciembre, en su [nota de prensa](https://github.blog/2022-06-08-sunsetting-atom/) Atom da los siguientes motivos:

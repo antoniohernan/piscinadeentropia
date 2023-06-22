@@ -3,12 +3,9 @@ title: "Juguemos con RetroPie!"
 date: "2023-03-20"
 ---
 
-> RetroPie te permite convertir tu Raspberry Pi, ODroid C1/C2, o PC en una máquina de juegos retro. Se basa en Raspbian, EmulationStation, RetroArch y muchos otros proyectos para que puedas jugar a tus Arcade favoritos, consolas domésticas y juegos clásicos de PC con la configuración mínima. Para los usuarios avanzados también proporciona una gran variedad de herramientas de configuración para personalizar el sistema a su gusto.
-> 
-> [Pagina Oficial de RetroPie](https://retropie.org.uk)
+![](../../images/logo-retropie.png)
 
-Aquí puedes encontrar todas las entradas del blog sobre RetroPie, como instalarlo y mas...
+_RetroPie te permite convertir tu Raspberry Pi, ODroid C1/C2, o PC en una máquina de juegos retro. Se basa en Raspbian, EmulationStation, RetroArch y muchos otros proyectos para que puedas jugar a tus Arcade favoritos, consolas domésticas y juegos clásicos de PC con la configuración mínima. Para los usuarios avanzados también proporciona una gran variedad de herramientas de configuración para personalizar el sistema a su gusto._
 
-https://piscinadeentropia.es/instalando-retro-pie/
+[Pagina Oficial de RetroPie](https://retropie.org.uk)
 
-https://piscinadeentropia.es/instalando-navegador-retropie/

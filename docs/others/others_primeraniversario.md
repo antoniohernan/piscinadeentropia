@@ -22,4 +22,3 @@ También he incluido algo especial por el evento, he introducido en una entrada 
 
 Muchas Gracias!!!
 
-**Isaaker.**

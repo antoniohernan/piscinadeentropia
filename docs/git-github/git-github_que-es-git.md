@@ -3,6 +3,8 @@ title: "¿Que es Git?"
 date: "2022-07-22"
 ---
 
+![](../images/git-logo.png)
+
 Hola de nuevo, hoy traigo a la web una nueva entrada que tenia en mente hace mucho tiempo. Como ya podeís ver por el título hoy hablaremos de ¿Que es Git?
 
 Para empezar veremos un poco las definición que encontramos en [su pagina web](https://git-scm.com/):
@@ -17,7 +19,7 @@ Y después de esta breve introducción veremos como funciona Git combinado con [
 
 [![](images/GitHub-Diagrama-2-e1658473598680.png)](https://drive.google.com/file/d/1RzD2xUK6vbSi9ZZ1om9fbj4FiEQpOr7u/view?usp=sharing)
 
-**Zonas:**
+## Zonas
 
 Como podemos ver en el esquema hay 4 áreas, las 3 primeras ubicadas en Local:
 
@@ -29,7 +31,7 @@ Y la última ubicada en Up Stream:
 
 4\. Remote Repository (Repositorio Remoto): Este se ubica en alguna plataforma como [GitHub](https://github.com/) o en algun servidor interno. Esto hace que trabajar en grupo sea mas facil ya que todos ponen sus cambio en un mismo sitio y se pueden descargar los del resto.
 
-**Comandos:**
+## Comandos
 
 - Pull: Incorpora los cambios de un repositorio remoto a la rama actual. Si la rama actual está detrás de la remota, entonces por defecto adelantará la rama actual para que coincida con la remota.
 - Clone: Clona un repositorio en un directorio recién creado, crea ramas de seguimiento remoto para cada rama del repositorio clonado (visibles usando git branch --remotes), y crea y comprueba una rama inicial que se bifurca desde la rama actualmente activa del repositorio clonado.
@@ -49,19 +51,19 @@ En el caso de Mac y si lo tuvieramos instalado nos devolveria: `git version 2.32
 
 En el caso de Linux se nos devolveria algo como esto: `git version 2.20.1`
 
-**Instalar Git**
+## Instalar Git
 
 Para instalar Git puedes acceder a [esta pagina](https://git-scm.com/downloads), y elegir como instalarlo entre las opciones que te ofrece tu Sistema Operativo (Despúes de actualizar usa `git --version`para verificar que se actualizó).
 
-**Actualizar Git**
+## Actualizar Git
 
-**Linux:**
+### Linux
 
 Primero actualizamos la info de los repositorios de los paquetes instalados con: `apt-get update`
 
 Y después actualizamos git con: `apt-get install git`
 
-**Windows:**
+### Windows
 
 Actualizar git en windows es un poco mas dificil, esto depende de que version del mismo tengas (Al igual que antes obtenemos la version con: `git --version`):
 
@@ -69,7 +71,7 @@ Actualizar git en windows es un poco mas dificil, esto depende de que version de
 - Si tienes entre las versiones 2.14.2 y la version 2.16.1, usa:  `git update`
 - En caso de tener la version 2.16.1 o posteriores usa `git update-git-for-window`
 
-**MacOS**:
+### MacOS
 
 Para Mac, aunque no sea la solución que mas me gusta la gente suele usar homebrew para actualizarlo, en caso de no haber usado brew desde el principio nos hara volver a instalar git para despues actualizarlo. Como ya he comentado antes algunas veces git viene junto a XCode por ello sospecho que cuando actualizas XCode también se actualiza git sin embargo no he sido capaz de encontrar nada al respecto en internet.
 
@@ -83,7 +85,7 @@ Para Mac, aunque no sea la solución que mas me gusta la gente suele usar homebr
 
  
 
-**Videos de introduccion a Git:**
+## Videos de introduccion a Git
 
  
 

@@ -25,4 +25,3 @@ Normalmente “print” cambiara de color, y cuando escribamos ( o “, pasaran 
 
 Y esto es todo en esta entrada, en la siguiente aprenderemos un poco mas sobre Bucles.
 
-**Isaaker.**

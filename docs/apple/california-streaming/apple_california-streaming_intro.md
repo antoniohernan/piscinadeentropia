@@ -3,6 +3,8 @@ title: "California Streaming"
 date: "2021-09-18"
 ---
 
+![](../../images/california-streaming.png)
+
 Hola, ¿Que tal el finde semana?
 
 Desde hace ya casi un mes, corrían rumores de que iba a haber un evento de Apple este Septiembre. La semana pasada ya se anuncio oficialmente por el método convencional el envió de las invitaciones, estas invitaciones escondían en R.A (Realidad Aumentada) la fecha del evento. Ademas como siempre iban acompañadas de una frase "California Streaming" que poco después nos revelaron su significado, estaba relacionada con Apple TV+. Y... es que este otoño Apple TV+ trae muchísimas nuevas series.
@@ -19,6 +21,6 @@ Esta entrada es una introducción a las siguientes, en las que indagare un poco 
 
 Hasta la próxima entrada.
 
-**Isaaker.**
 
-#California Streaming
+
+

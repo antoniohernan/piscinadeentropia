@@ -3,6 +3,7 @@ title: "Twitter vs Mastodon"
 date: "2023-03-04"
 ---
 
+
 Hola de nuevo, hoy traigo un tema de actualidad que seguramente muchos habréis visto en las noticias e incluso algunos lo podréis haber visto en la red social, estoy hablando de la compra de Twitter por Elon Musk.
 
 Recientemente, el 27 de Octubre de 2022 Elon Musk adquirió por 44.000 millones de dólares. Esto no es raro ya que llevaba mucho tiempo anunciando su intención de comprar la compañía y en algún momento tenia que ocurrir, en la actualidad Elon Musk ha despedido a el 83% de sus empleados y ha a efectuado cambios en la compañía como el de cambiar la normativa de la API para desarrolladores, además también a creado su política de verificación en la que cualquier usuario puede obtener una verificación si tiene 8$ al mes o los problemas de moderación que ahora mismo atraviesa la plataforma por la falta de personal.
@@ -24,7 +25,7 @@ Por ello muchos usuarios han decidido buscar una alternativa, desde el twitter a
 
 A esta red social ya se han unido muchas personas incluidos antiguos empleados de Twitter, por ello vamos a realiza una comparativa de puntos a favor de cada red social.
 
-**Twitter**
+## Twitter
 
 - Usuarios y Cuentas importantes que solo existen en esta red social (Google, Apple, Tim Cook...)
 - Verificación (Mas fiable)
@@ -32,7 +33,7 @@ A esta red social ya se han unido muchas personas incluidos antiguos empleados d
 - Algoritmos que te muestran cosas similares a las que te gustan (Para quien le gusten estos filtros)
 - Puedes ver el perfil de cualquier persona
 
-**Mastodon**
+## Mastodon
 
 - Es una red descentralizada y por lo tanto no esta controlada por ninguna compañía, puedes estar en el servidor que quieras
 - Ves solo el contenido de las cuentas a las que estas suscrito
@@ -42,6 +43,8 @@ A esta red social ya se han unido muchas personas incluidos antiguos empleados d
 - Siempre disponible
 - API gratuita para desarrolladores, además ya cuenta con multiples servicios de pago que antes estaban en Twitter y se han pasado a Mastodon por las políticas de Musk
 - Edición de los toot de forma gratuita (Para editar Tweets es necesario tener Twitter Blue)
+
+## Pasandonos a Mastodon
 
 Para los que queráis pasaros a Mastodon, a continuación os explico el funcionamiento de la red y como daros de alta:
 

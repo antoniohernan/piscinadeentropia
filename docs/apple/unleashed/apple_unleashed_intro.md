@@ -11,4 +11,4 @@ El Apple event con el lema Unleashed se celebró el día 18 de Octubre de 2021
 - HomePod Mini
 - Macbook Pro / M1 Pro y Max
 
-#Unleashed
+

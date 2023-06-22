@@ -7,6 +7,3 @@ date: "2021-06-08"
 
 **<- En la barra lateral podras encontrar todos los articulos de este evento**
 
-#WWDC21
-
-#AppleEvent

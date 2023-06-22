@@ -3,6 +3,8 @@ title: "Anuncios en los SmartTV"
 date: "2022-01-05"
 ---
 
+![](../images/anuncios_smart-tv.png)
+
 Hola de nuevo, hoy os traigo un tema que me lleva varios dias enfadando: Anuncios en los Smart TV
 
 Os pongo en situacion, yo tengo un AppleTV... cunado lo enciendo simplemente aparece un menu de inicio con las apps. Sin embargo... yo enciendo mi FireStick y me encuentro las apps en un rincon y la parte de abajo llena de baners, algunos son peliculas de Netflix, algunso son anuncios de apps que no tengo e incluso anuncios comerciales.

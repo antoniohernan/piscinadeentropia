@@ -3,6 +3,8 @@ title: "Modo encubierto, curioso ajuste de Firewall"
 date: "2022-02-13"
 ---
 
+![](../images/modo-encubierto-logo.jpg)
+
 Bueno, hoy vengo a hablaros de un curioso modo del FireWall de mi Mac que muchos seguramente no conozcais: **Modo Encubierto**
 
 En sus propias palabras este sistema: "Permite no responder o no aceptar los intentos de acceder a este ordenador desde la red por parte de aplicaciones de prueba que usan ICMP (Por ej: Ping)". Ahora preguntareís ¿cual es tu opinión sobre este sistema?, pues que funcióna muy bien para que lo podais ver os dejo unas capturas a continuación.

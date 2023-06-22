@@ -3,6 +3,8 @@ title: "Otto DIY"
 date: "2021-08-09"
 ---
 
+![](../images/otto_logo.png)
+
 Hola, hoy vengo a presentaros el robot que estoy elaborando conjuntamente con [pruebadeconcepto.es](https://pruebadeconcepto.es) , se llama Otto. Como puedes leer en su [pagina](https://es.ottodiy.com/), esta es su historia:
 
 “_en 2016, el fundador e ingeniero de diseño Camilo Parra Palacio, mientras trabajaba en Shanghai para un fabricante multinacional de juguetes inflables, tuvo la idea de un robot y comenzó a realizarla en el primer Hackerspace en China. Allí comenzó a jugar y experimentar con robots de bricolaje. Para su sorpresa, los robots de bricolaje solo eran accesibles para profesionales y no eran bien conocidos por el público en general. Después de diseñar un robot fácil de hacer para todas las edades, se dio cuenta de lo que tenía que hacer. Traer al mercado un robot que cualquiera pueda hacer. ¡Así nació Otto!_”
@@ -23,4 +25,3 @@ También Otto cuenta con unas instrucciones de uso y montage en las que podréis
 
 A continuación os dejo el enlace a la [Pagina Oficial de Otto DIY](https://www.ottodiy.com/) y a [su canal de YouTube](https://youtube.com/c/OttoDIY), para que vayáis investigando mientras elaboro el siguiente articulo.
 
-**Isaaker.**

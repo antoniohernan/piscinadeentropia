@@ -3,6 +3,8 @@ title: "Amazon Fire Tv Stick"
 date: "2021-07-12"
 ---
 
+![](../images/amazon_fire_stick.png)
+
 Hola, ¿Que tal?. Hoy venia a hablaros de mis ultimas adquisiciones los Amazon Fire Tv Sick.
 
 En concreto he comprado un Fire Tv Stick Normal y un Fire Tv Stick Lite. Los precios varian pero el Lite lo compre en MediaMarkt por unos... 29,99€ y el Fire Stick Normal lo compre al propio Amazon por 39,99€.

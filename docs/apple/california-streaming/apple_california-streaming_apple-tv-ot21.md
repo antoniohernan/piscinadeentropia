@@ -33,4 +33,3 @@ A continuación os dejo unos breves sinopsis de cada Serie:
 
 **Isaaker.**
 
-#California Streaming
