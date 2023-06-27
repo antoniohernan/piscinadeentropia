@@ -17,7 +17,7 @@ Por muchas de estas características, Git es usado por millones de Compañias y 
 
 Y después de esta breve introducción veremos como funciona Git combinado con [GitHub](https://piscinadeentropia.es/que-es-github/) mediante un esquema creado por mi:
 
-[![](images/GitHub-Diagrama-2-e1658473598680.png)](https://drive.google.com/file/d/1RzD2xUK6vbSi9ZZ1om9fbj4FiEQpOr7u/view?usp=sharing)
+![](../images/git-scheme.png)
 
 ## Zonas
 
