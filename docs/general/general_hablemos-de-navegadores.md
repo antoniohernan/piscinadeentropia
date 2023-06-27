@@ -9,7 +9,7 @@ Hoy vamos ha hablar sobre navegadores, empezando por su historia...
 
 El primer navegador del mundo fue creado por Tim-Berners-Lee el padre de el concepto World Wide Web, en sus inicios el navegador tomo el mismo nombre que el mismo concepto anteriormente mencionado sin embargo, se le cambio el nombre a Nexus para evitar confusiones. El problema de este navegador fue la compatibilidad ya que solo funcionaba en los ordenadores NeXT (empresa fundada por Stve Jobs en 1985).
 
-![](images/Captura-de-pantalla-2022-01-04-a-las-20.47.20-185x200.png)
+![](../images/netscape-logo.png)
 
 Sin embargo aqui entra en juego una empresa llamada Mosaic Communications Corporation, que en 1994 lanzo un navegador llamado Mosaic Netscape. Este nuevo navegador funcionaba en distribuciones Unix pero pronto se crearon adaptaciones funcionales para Windows y Macintosh. A su vez esta compañia cambio de nombre ese mismo año a Netscape Comunications Corporation, cambiando el nombre del navegador a Netscape navigator.
 
