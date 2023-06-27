@@ -5,6 +5,7 @@ copyright: Copyright &copy; 2021-2023 Isaac Hernan
 
 theme:
     name: material
+    version: 
     language: "es"
     logo: ./images/pisicina_de_entropia_logo.png
     favicon: ./images/favicon.ico
