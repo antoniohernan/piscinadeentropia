@@ -4,7 +4,7 @@ date: "2021-06-01"
 
 ---
 
-![](images/FB4BD13E-3EEC-49E5-A4A1-F9254EC2B84F.jpeg)
+![](../images/appleM1.jpeg)
 
 Ya, ya algunos os habréis asustado pero primero os quiero recordar algo, este Lunes 7 de Junio es la [WWDC21](https://developer.apple.com/wwdc21/) y viendo lo visto a mi me huele a M2.
 
