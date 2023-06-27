@@ -3,7 +3,7 @@ title: "Los 10 servicios de Google que aun no conocías"
 date: "2021-07-09"
 ---
 
-1[](../images/google-logo.png)
+![](../images/google-logo.png)
 
 Hola, en la entrada de hoy hablaremos de los servicios de Google. Sobre todo de los que no conoce mucha gente.
 
