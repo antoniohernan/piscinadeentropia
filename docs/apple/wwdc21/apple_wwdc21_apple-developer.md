@@ -3,7 +3,7 @@ title: "WWDC21 Apple Developers"
 date: "2021-06-23"
 ---
 
-![](../../images/developer-app-icon.png.png)
+![](../../images/developer-app-icon.png)
 
 Esta es la ultima entrada, aunque para mucha gente no tenga interés esta sección la tengo que contar ya que esta pagina va sobre esos... sobre tecnología.
 
