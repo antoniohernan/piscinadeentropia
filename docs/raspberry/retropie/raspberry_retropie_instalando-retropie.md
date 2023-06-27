@@ -3,7 +3,7 @@ title: "Instalando RetroPie"
 date: "2023-03-19"
 ---
 
-![](../../images/pi-hole-logo.jpg)
+![](../../images/logo-retropie.png)
 
 Hola de nuevo, en esta entrada vamos a instalar RetroPie y a aprender a usarlo para poder jugar a nuestros juegos retro favoritos y mucho mas...
 
