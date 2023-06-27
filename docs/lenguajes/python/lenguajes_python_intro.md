@@ -11,7 +11,7 @@ Es administrado por la [Python Software Foundation](https://es.wikipedia.org/wi
 
 Acerca de sus peculiaridades: Aunque podemos usar un IDE como es por ejemplo el que uso yo en mi Rapsberry pi 400 es Thony Python IDE, aunque hay muchos mas. Es que hay que tabular ¿Tabular? Pues si esta tecla:
 
-![](images/DEF3378A-B405-4FEE-B28C-736F07BE224C.png)
+![](../../images/tab_scheme.png)
 
 Se pueden utilizar tanto espacios como tabuladores para sangrar el código, pero se recomienda no mezclarlos. Cada vez que tienes que sangrar te lo hace automáticamente el IDE pero si no lo usas os pongo un ejemplo.(Cada vez que sangras es un tabulador).El sangrado solo se usa cuando tienes que ejecutar algo en un bucle o con if o else, también con While True.
 
