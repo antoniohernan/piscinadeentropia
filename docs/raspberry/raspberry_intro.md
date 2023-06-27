@@ -32,7 +32,7 @@ El administrador de la fundación, [Eben Upton](https://es.m.wikipedia.org/wiki/
 
 ### Raspberry Pi 2 Modelo B
 
-![](../images/Raspberry_Pi_2_Model_A.jpg)
+![](../images/Raspberry_Pi_2_Model_B.jpg)
 
 ### Raspberry Pi 3 Modelo B+
 
