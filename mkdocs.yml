@@ -63,7 +63,7 @@ plugins:
         datetime_format: "%Y-%m-%d"
       pretty_print: !ENV [PRETTY_RSS, false]
       length: 30
-      match_path: "Tech Blog/.*"
+      match_path: "./.*"
 
 
 
