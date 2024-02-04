@@ -7,7 +7,7 @@ title: "Política de Privacidad"
 date: "2023-02-04"
 ---
 
-![Logo Política de Privacidad](./images/privacy.gif)
+![Logo Política de Privacidad](../images/privacy.gif)
 
 **Ultima modificación: 4 de Febrero de 2024**
 
