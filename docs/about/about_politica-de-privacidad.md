@@ -7,7 +7,7 @@ title: "Política de Privacidad"
 date: "2023-02-04"
 ---
 
-![Logo Política de Privacidad](./images/privacidad.gif)
+![Logo Política de Privacidad](./images/privacy.gif)
 
 **Ultima modificación: 4 de Febrero de 2024**
 
@@ -55,7 +55,7 @@ Piscina de Entropía recaba datos de analítica con fines de seguridad y analís
 
 ## Con quién compartimos tus datos
 
-Tus datos son unicamente procesados con fines de seguridad y analisís de trafico, y estos datos son unicamente compartidos con nuestro proovedor de Seguridad que los trata como se indica en su [política de privacidad]https://www.cloudflare.com/es-es/privacypolicy/).
+Tus datos son unicamente procesados con fines de seguridad y analisís de trafico, y estos datos son unicamente compartidos con nuestro proovedor de Seguridad que los trata como se indica en su [política de privacidad](https://www.cloudflare.com/es-es/privacypolicy/).
 
 Asimismo, nuestra web no recaba otro tipo de datos de forma directa, sin embargo, GitHub (nuestro provedor de nube) puede recabar datos relacionados contigo y tratarlos conforme a su [Política de Privacidad](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
