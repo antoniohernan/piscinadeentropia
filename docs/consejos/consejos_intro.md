@@ -36,5 +36,16 @@ Aquí dejo 10 consejos básicos como introducción a la sección, y que seria re
     4. Combine minusculas, mayúsculas, números y carácteres especiales (!-_./#*+^)
 7. NO LE DES TU CONTRASEÑA A NADIE, esto es muy importante. Tus contraseñas deben de ser totalmente secretas e intranseferibles. Tu contraseñas es unicamente para que la uses tu en la aplicación, web u ordenador para la que se creo, si en algún momento la compañia necesita acceder a tus datos cuentan con metodós para poder hacerlo ellos sin tus credenciales, por ello no le des tu contraseña a nadie, ni siquiera si te dicen que son de la organización.
 8. Cuidado con el phising, si te contactaro por email, telefóno u otro método ten cuidado. Verifica el origen de la llamada, mensaje o correo, en el caso de los ultimós no los habras si no estas seguros de su procedencia (cuentan con un Asunto o remitente extraño). Evita abrir archivos adjuntos si no sabes su procedencia.
-9. Manten limpio tu ordenador, elmimna aplicaciones, archivos y otras cosas que no utlices en tu ordenador. Utilica programas de limopieza como CCleaner y vacía la papelera. Esto ayudara a que tu ordenador vaya mas rápido y reduce tu expposición a ciberataques.
+9. Manten limpio y actualizado tu ordenador, elmina aplicaciones, archivos y otras cosas que no utlices en tu ordenador. Utilica programas de limopieza como CCleaner y vacía la papelera. Esto ayudara a que tu ordenador vaya mas rápido y reduce tu exposición a ciberataques.
 10. [Mantente informado sobre las ultimas noticias de seguridad](https://www.incibe.es/incibe/sala-de-prensa) para evitar caer en estafas y en caso de necesitar ayuda (por algun tipo de estafa o algo similar) [contacta con el Instituo Nacional de Ciberseguridad](https://www.incibe.es/linea-de-ayuda-en-ciberseguridad), ellos te prestaran ayuda de forma gratuita con tus problemas de ciberseguridad.
+
+## Programas de mantenimiento para el ordenador
+
+**Para el Mac**
+
+[CleanMyMac](https://macpaw.com/es/cleanmymac): Es un programa desarrollado por MacPaw y tiene una capa gratuita, sinceramente creo que es el mejor limpiador para Mac pese a que su precio pueda ser elevado.
+
+**Para Windows o Linux**
+
+[CCleaner](https://www.ccleaner.com/es-es): Su capa gratuita es muy amplia y incorpora gran cantidad de opciones, además, permite crear una copia del programa portable que puedes llevaren USB stick contigo.
+

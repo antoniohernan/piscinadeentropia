@@ -112,7 +112,8 @@ nav:
         - "Las nuevas AirTags": "apple/apple_nuevas-airtags.md"
         - "Las nuevas AirTags 2": "apple/apple_nuevas-airtags-2.md"
         - "Vulnerabilida en los nuevos chips de Apple M1": "apple/apple_vulnerabilidad-en-los-nuevos-chips-de-apple-M1"
-
+    - Consejos:
+        - "Introducción": "consejos/consejos_intro.md"
     - Raspberry:
         - "Introducción": "raspberry/raspberry_intro.md"
         - "Pi-Hole": 
@@ -126,11 +127,13 @@ nav:
         - "Introducción": "arduino/arduino_intro.md"
         - "Otto DIY": "arduino/arduino_otto-DIY.md"
     - Ciberseguridad:
+        - "Introducción": "ciberseguridad/ciberseguridad_intro.md"
         - "El cifrado mas seguro del mundo": "ciberseguridad/ciberseguridad_cifrado-mas-seguro-mundo.md"
         - "FIDO alliance y el futuro de las contraseñas": "ciberseguridad/ciberseguridad_fido-alliance-futuro-contraseñas.md"
         - "Modo encubierto curioso ajuste de firewall": "ciberseguridad/ciberseguridad_modo-encubierto.md"
         - "El peligro de cargar el movil en un lugar público": "ciberseguridad/ciberseguridad_peligro-cargar-movil-publico.md"
         - "Restablecer el codigo  de doble factor de Telegram": "ciberseguridad/ciberseguridad_restablecer-doble-factor-telegram.md"
+        - "Evita el Phising": "ciberseguridad/ciberseguridad_evita_el_phising.md"
     - Git y GitHub:
         - "¿Qué es Git?": "git-github/git-github_que-es-git.md"
         - "¿Qué es GitHub?": "git-github/git-github_que-es-github.md"
